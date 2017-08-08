@@ -1,2 +1,3 @@
 # BillReader
-Node app to read the bill and store
+Node app to read the bill and store.
+Changed
