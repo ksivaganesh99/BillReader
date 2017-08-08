@@ -1,0 +1,16 @@
+{
+  "name": "billreader",
+  "version": "1.0.0",
+  "description": "Bill reading module",
+  "main": "app.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "keywords": [
+    "billreaderor",
+    "extractor",
+    "api"
+  ],
+  "author": "Siva Karri",
+  "license": "ISC"
+}
